@@ -402,7 +402,7 @@ input {
 .route-button {
     position: fixed;
     left: 50%;
-    bottom: 34px;
+    bottom: 105px;
     transform: translateX(-50%);
     z-index: 1200;
     display: none;
