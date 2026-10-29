@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://files.catbox.moe/7iczb9.mp4",
+    "local": "audio/01_b17266631c.mp4",
+    "status": 200,
+    "content_type": "video/mp4",
+    "bytes": 1108303,
+    "sha256": "ae6f9c817aafc9eb3e992eecc966e1fba4329a046fc150214ca9021f8564178b",
+    "external": true
+  },
+  {
+    "url": "https://files.catbox.moe/7jwp0m.mp4",
+    "local": "audio/02_9e4a17522a.mp4",
+    "status": 200,
+    "content_type": "video/mp4",
+    "bytes": 20159943,
+    "sha256": "289ec04e4e0147df820de8588078f94042bd165664765710c6e29e44a73d329b",
+    "external": true
+  }
+]

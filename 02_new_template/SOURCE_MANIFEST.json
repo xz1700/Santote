@@ -1,0 +1,90 @@
+{
+  "title": "قالب جديد",
+  "original_url": "https://gift-love-story-sandy.vercel.app/",
+  "password_provided": "love",
+  "downloaded_at": "2026-10-28T18:05:42Z",
+  "records": [
+    {
+      "url": "https://gift-love-story-sandy.vercel.app/",
+      "local": "index.html",
+      "status": 200,
+      "content_type": "text/html",
+      "bytes": 86472
+    },
+    {
+      "url": "https://gift-love-story-sandy.vercel.app/%23g",
+      "local": "_23g/index.html",
+      "status": 404,
+      "content_type": "text/plain",
+      "bytes": 79
+    },
+    {
+      "url": "https://h.top4top.io/p_3876knygu1.jpg",
+      "local": "external_assets/cab7f6444323.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 42900,
+      "external": true
+    },
+    {
+      "url": "https://e.top4top.io/p_38082ijui1.jpg",
+      "local": "external_assets/f0bcc0731db3.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 93516,
+      "external": true
+    },
+    {
+      "url": "https://f.top4top.io/p_38084ec8j1.jpg",
+      "local": "external_assets/cab7277eab5e.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 88492,
+      "external": true
+    },
+    {
+      "url": "https://g.top4top.io/p_3808y5t2l1.jpg",
+      "local": "external_assets/1e113778a45b.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 75988,
+      "external": true
+    },
+    {
+      "url": "https://i.top4top.io/p_38080yp471.jpg",
+      "local": "external_assets/00204cf317ed.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 125158,
+      "external": true
+    },
+    {
+      "url": "https://j.top4top.io/p_3808rtkju1.jpg",
+      "local": "external_assets/c49bcbd04db6.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 131562,
+      "external": true
+    },
+    {
+      "url": "https://g.top4top.io/m_3791px7qc1.mp3",
+      "local": "external_assets/ba7259b79298.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "bytes": 168900,
+      "external": true
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;900&family=Reem+Kufi+Ink:wght@400;700&display=swap",
+      "local": "external_code/c9bc69c28503.css",
+      "status": 200,
+      "content_type": "text/css",
+      "bytes": 1184,
+      "external": true
+    }
+  ],
+  "external_urls_not_copied": [
+    "https://fonts.googleapis.com",
+    "https://fonts.gstatic.com"
+  ]
+}
