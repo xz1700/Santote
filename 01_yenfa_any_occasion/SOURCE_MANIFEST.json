@@ -1,0 +1,230 @@
+{
+  "title": "ينفع لأي مناسبة",
+  "original_url": "https://heartlink-friends.vercel.app/",
+  "password_provided": "3/30",
+  "downloaded_at": "2026-10-28T18:05:40Z",
+  "records": [
+    {
+      "url": "https://heartlink-friends.vercel.app/",
+      "local": "index.html",
+      "status": 200,
+      "content_type": "text/html",
+      "bytes": 69646
+    },
+    {
+      "url": "https://heartlink-friends.vercel.app/%23n",
+      "local": "_23n/index.html",
+      "status": 404,
+      "content_type": "text/plain",
+      "bytes": 79
+    },
+    {
+      "url": "https://heartlink-friends.vercel.app/cardImg.src",
+      "local": "cardImg.src",
+      "status": 404,
+      "content_type": "text/plain",
+      "bytes": 79
+    },
+    {
+      "url": "https://heartlink-friends.vercel.app/blob",
+      "local": "blob/index.html",
+      "status": 404,
+      "content_type": "text/plain",
+      "bytes": 79
+    },
+    {
+      "url": "https://heartlink-friends.vercel.app/lastBlob",
+      "local": "lastBlob/index.html",
+      "status": 404,
+      "content_type": "text/plain",
+      "bytes": 79
+    },
+    {
+      "url": "https://heartlink-friends.vercel.app/a.href",
+      "local": "a.href",
+      "status": 404,
+      "content_type": "text/plain",
+      "bytes": 79
+    },
+    {
+      "url": "https://res.cloudinary.com/dvc3zpg1i/image/upload/f_auto,q_auto:good,w_1600,c_limit/v1787065117/c/lovelyy-friends/img/wiwrwlofkstte7uo8v12.jpg",
+      "local": "external_assets/6dfce7bc89a7.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 41878,
+      "external": true
+    },
+    {
+      "url": "https://res.cloudinary.com/dvc3zpg1i/image/upload/f_auto,q_auto:good,w_1600,c_limit/v1787097974/c/lovelyy-friends/img/copkbbfpwgdaqjhvp7gm.jpg",
+      "local": "external_assets/8738f4c5e6e4.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 138411,
+      "external": true
+    },
+    {
+      "url": "https://res.cloudinary.com/dvc3zpg1i/image/upload/f_auto,q_auto:good,w_1600,c_limit/v1787094240/c/lovelyy-friends/img/zpxmjcr8cseflsxkrry2.jpg",
+      "local": "external_assets/2a5c06f996d1.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 142573,
+      "external": true
+    },
+    {
+      "url": "https://res.cloudinary.com/dvc3zpg1i/image/upload/f_auto,q_auto:good,w_1600,c_limit/v1787094297/c/lovelyy-friends/img/jsbc60ufj4otwroipwft.jpg",
+      "local": "external_assets/347efe3f448f.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 75385,
+      "external": true
+    },
+    {
+      "url": "https://res.cloudinary.com/dvc3zpg1i/image/upload/f_auto,q_auto:good,w_1600,c_limit/v1787094318/c/lovelyy-friends/img/jzmnrabenycxiolrpbqf.jpg",
+      "local": "external_assets/d3a54ac585f2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 91780,
+      "external": true
+    },
+    {
+      "url": "https://res.cloudinary.com/dvc3zpg1i/image/upload/f_auto,q_auto:good,w_1600,c_limit/v1787094326/c/lovelyy-friends/img/oojtpyzpqunlpkv3jmgs.jpg",
+      "local": "external_assets/acd2e0e89e1c.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 27674,
+      "external": true
+    },
+    {
+      "url": "https://res.cloudinary.com/dvc3zpg1i/image/upload/f_auto,q_auto:good,w_1600,c_limit/v1787094364/c/lovelyy-friends/img/yddjgslywtrux7lm7da8.jpg",
+      "local": "external_assets/7ba92d1ce82a.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 61135,
+      "external": true
+    },
+    {
+      "url": "https://res.cloudinary.com/dvc3zpg1i/image/upload/f_auto,q_auto:good,w_1600,c_limit/v1787094465/c/lovelyy-friends/img/pwp2elzjojsd5j4nbw9y.jpg",
+      "local": "external_assets/6bd30b55a3d2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 85494,
+      "external": true
+    },
+    {
+      "url": "https://res.cloudinary.com/dvc3zpg1i/image/upload/f_auto,q_auto:good,w_1600,c_limit/v1787094584/c/lovelyy-friends/img/wyqbpukgvtrkxtrvnirz.jpg",
+      "local": "external_assets/2e73e85c7805.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 49203,
+      "external": true
+    },
+    {
+      "url": "https://res.cloudinary.com/dvc3zpg1i/image/upload/f_auto,q_auto:good,w_1600,c_limit/v1787160042/c/lovelyy-friends/img/fvxvm0ywgjygjdz3fbnp.jpg",
+      "local": "external_assets/32848b0ddfe8.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 60593,
+      "external": true
+    },
+    {
+      "url": "https://res.cloudinary.com/dvc3zpg1i/image/upload/f_auto,q_auto:good,w_1600,c_limit/v1787097989/c/lovelyy-friends/img/dtb1qfb1urscqpdvxs0t.jpg",
+      "local": "external_assets/51284590cee4.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 39554,
+      "external": true
+    },
+    {
+      "url": "https://res.cloudinary.com/dvc3zpg1i/image/upload/f_auto,q_auto:good,w_1600,c_limit/v1787098001/c/lovelyy-friends/img/ualbbc51vpd01d6fxbvk.jpg",
+      "local": "external_assets/89b13782e983.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 49203,
+      "external": true
+    },
+    {
+      "url": "https://res.cloudinary.com/dvc3zpg1i/image/upload/f_auto,q_auto:good,w_1600,c_limit/v1787098010/c/lovelyy-friends/img/hkb1xjdzmungrg7msjqn.jpg",
+      "local": "external_assets/95e4f681ce16.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 213027,
+      "external": true
+    },
+    {
+      "url": "https://res.cloudinary.com/dvc3zpg1i/image/upload/f_auto,q_auto:good,w_1600,c_limit/v1787098103/c/lovelyy-friends/img/sw8etdyi6m6ajxwv5ktp.jpg",
+      "local": "external_assets/dfc2a9df344e.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 52132,
+      "external": true
+    },
+    {
+      "url": "https://res.cloudinary.com/dvc3zpg1i/image/upload/f_auto,q_auto:good,w_1600,c_limit/v1787098124/c/lovelyy-friends/img/voarnacsrmzlvpuweely.jpg",
+      "local": "external_assets/a59f3e2fd88d.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 91780,
+      "external": true
+    },
+    {
+      "url": "https://res.cloudinary.com/dvc3zpg1i/image/upload/f_auto,q_auto:good,w_1600,c_limit/v1787098147/c/lovelyy-friends/img/im8urbirzaphqwrxablt.jpg",
+      "local": "external_assets/d3bd20014547.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 72691,
+      "external": true
+    },
+    {
+      "url": "https://res.cloudinary.com/dvc3zpg1i/image/upload/f_auto,q_auto:good,w_1600,c_limit/v1787098221/c/lovelyy-friends/img/p3swkmshgp6rjusjuylb.jpg",
+      "local": "external_assets/ca855e13e9cc.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 131633,
+      "external": true
+    },
+    {
+      "url": "https://res.cloudinary.com/dvc3zpg1i/image/upload/f_auto,q_auto:good,w_1600,c_limit/v1787098275/c/lovelyy-friends/img/bazqgqi7byvmc0wsagzk.jpg",
+      "local": "external_assets/e60badb2fb2b.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 71984,
+      "external": true
+    },
+    {
+      "url": "https://res.cloudinary.com/dvc3zpg1i/image/upload/f_auto,q_auto:good,w_1600,c_limit/v1787098317/c/lovelyy-friends/img/gbnnewmbpiratbm4e3bl.jpg",
+      "local": "external_assets/b8f521e15260.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 42789,
+      "external": true
+    },
+    {
+      "url": "https://res.cloudinary.com/dvc3zpg1i/video/upload/v1787098463/c/lovelyy-friends/aud/kkk55khuxnujpcqdy29o.mp3",
+      "local": "external_assets/1022ebddae23.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "bytes": 454896,
+      "external": true
+    },
+    {
+      "url": "https://res.cloudinary.com/dvc3zpg1i/video/upload/v1787098486/c/lovelyy-friends/aud/iar07jyzih8tquoxkodc.mp3",
+      "local": "external_assets/50b6b6bee0de.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "bytes": 418608,
+      "external": true
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Marhey:wght@400;600;700&family=Baloo+Bhaijaan+2:wght@400;500;600&family=Caveat:wght@500;700&display=swap",
+      "local": "external_code/3a2958ccc565.css",
+      "status": 200,
+      "content_type": "text/css",
+      "bytes": 1810,
+      "external": true
+    }
+  ],
+  "external_urls_not_copied": [
+    "https://fonts.googleapis.com",
+    "https://fonts.gstatic.com"
+  ]
+}
